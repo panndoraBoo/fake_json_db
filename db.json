@@ -1,59 +1,53 @@
 {
     "members": [
         {
-            "id": "M0",
+            "id": 0,
             "first_name": "Henk",
             "last_name": "Henkerson",
-            "image": "https://debrugkrant.nl/wp-content/uploads/2020/05/Henk-Spaan-4.jpg",
             "sports": [
-                "S0"
+                0
             ]
         },
         {
-            "id": "M1",
+            "id": 1,
             "first_name": "Jolanda",
-            "last_name": "Jolalala",
-            "image": "https://innoord.nl/wp-content/uploads/2020/12/Klassen_JOLANDA-1_cJean-Counet.jpg",
+            "last_name": "Jola",
             "sports": [
-                "S1",
-                "S2"
+                1,
+                2
             ]
         },
         {
-            "id": "M2",
-            "first_name": "Cody",
+            "id": 2,
+            "first_name": "Cold",
             "last_name": "Kermis",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cole_Sprouse_White_House_2010.jpg/1200px-Cole_Sprouse_White_House_2010.jpg",
             "sports": [
-                "S0",
-                "S1",
-                "S2"
+                0,
+                1,
+                2
             ]
         },
         {
-            "id": "M3",
+            "id": 3,
             "first_name": "Lydia",
-            "last_name": "Paars",
-            "image": "https://lydiazwart.nl/wp-content/uploads/IMG_6129-e1581522163563-1024x1024.jpg",
+            "last_name": "Pink",
             "sports": [
-                "S2"
+                2
             ]
         }
     ],
     "sports": [
         {
-            "id": "S0",
-            "name": "Football",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyNgLtkalI7_W9EpNYuVkxmvU47KxK8wU9aehUzbLk9sfvclcUri0wvFwD9trut4AluH0&usqp=CAU"
-        },{
-            "id":"S1",
-            "name": "Squash",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Squash_court.JPG/1200px-Squash_court.JPG"
-        }, {
-            "id": "S2",
-            "name": "Tennis",
-            "image": "https://www.rtvridderkerk.nl/testwp/wp-content/uploads/2020/05/2018-03-14-Oudelande-magazine-2.jpg"
+            "id": 0,
+            "name": "Football"
+        },
+        {
+            "id": 1,
+            "name": "Squash"
+        },
+        {
+            "id": 2,
+            "name": "Tennis"
         }
-
     ]
 }
